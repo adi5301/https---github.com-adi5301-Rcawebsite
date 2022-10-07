@@ -1,0 +1,154 @@
+/* classes */
+/* body{
+  text-align: center;
+  justify-content: center;
+} */
+
+#gameLabel{
+  display: block;
+  border: 2px solid black;
+  text-align: center;
+  width: 20%;
+  margin: auto;
+  margin-top: 19px;
+  color: white;
+  background-color: #ff3500;
+  border-radius: 16px;
+  height: 44px;
+  padding-bottom: 31px;
+}
+.formDiv{
+  margin: 0 auto;
+}
+label{
+  padding-top:1%;
+}
+input{
+  padding-bottom: 1%;
+  border: none;
+  border-bottom:  0.3px solid black;
+
+/* .helllo input{
+  border: none;
+  border-bottom:  0.3px solid black;
+} */
+
+}
+
+.chooseGames {
+  position: relative;
+  width: 100%;
+  max-width: 300px;
+  display: inline-block;
+}
+
+.chooseGames img {
+  width: 100%;
+  height: auto;
+}
+
+.chooseGames .btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #f1f1f1;
+  color: black;
+  font-size: 16px;
+  padding: 16px 30px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.chooseGames .btn:hover {
+  background-color: black;
+  color: white;
+}
+
+.hdg
+{
+  text-align: center;
+  border: 2px solid rgb(212, 157, 157);
+  width: 231px;
+  margin: 15px auto;
+  border-radius: 12px;
+  padding: 6px;
+  background-color: #FF7F3F;
+}
+.captinfo
+{
+  text-align: center;
+  border: 2px solid rgb(230, 184, 226);
+  width: 231px;
+  margin: 15px auto;
+  border-radius: 12px;
+  padding: 6px;
+  background-color: #F6D860
+  ;
+}
+.playerheading
+{
+  text-align: center;
+  border: 2px solid rgb(212, 157, 157);
+  width: 231px;
+  margin: 15px auto;
+  border-radius: 12px;
+  padding: 6px;
+  background-color: #F6D860;
+}
+.gameSelect
+{
+    /* margin: 16px 491px; */
+    /* justify-content: center; */
+    text-align: center;
+    margin-top: 16px;
+}
+#page1
+{
+  display: none;
+}
+#page2
+{
+  display: none;
+}
+#page3
+{
+  display: none;
+}
+#page4
+{
+  display: none;
+}
+#page5
+{
+  display: none;
+}
+#page6
+{
+  display: none;
+}
+#page7
+{
+  display: none;
+}
+#page8
+{
+  display: none;
+}
+#page9
+{
+  display: none;
+}
+
+body
+{
+  width: 100vw;
+}
+
+.colformDiv
+{
+   border : 2px solid black ;
+}
