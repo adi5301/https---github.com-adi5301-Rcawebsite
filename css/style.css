@@ -481,13 +481,12 @@ h3 {
 }
 .zoom{
   overflow: hidden;
+  border-radius: 20px;
 }
 .calender img {
   width: 450px;
   height: 270px; 
-  border-radius: 20px;
-  filter: blur(2px);
-  -webkit-filter: blur(2px);
+  border-radius: 25px;
   transition: 0.5s all ease-in-out;
 }
 
