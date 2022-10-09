@@ -995,6 +995,16 @@ h3 {
   background: #000 !important;
 }
 
+.testimg{
+  width: 25%;
+  margin-bottom: 5%;
+}
+
+.card-text{
+  width: 70%;
+  float: right;
+}
+
 /* line 1, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
 .header-area {
   left: 0;
