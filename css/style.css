@@ -512,6 +512,9 @@ h3 {
     width: 100%;
   }
   
+  #testim{
+    flex-direction: column;
+  }
 }
 
 
@@ -6699,7 +6702,7 @@ h6 {
 ul#menu li {
   display:inline;
   padding: inherit
-  align-content: 
+   
 }
 
 ul#menu li{
@@ -7038,4 +7041,5 @@ a.nav1-link6:hover, a.nav1-link6:active{
     -webkit-box-shadow: 0px 2px 13px -1px rgba(0, 0, 0, 0.15);
     -moz-box-shadow: 0px 2px 13px -1px rgba(0, 0, 0, 0.15);
     box-shadow: 0px 2px 13px -1px rgba(0, 0, 0, 0.15);
+}
 }
