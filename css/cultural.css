@@ -3,7 +3,7 @@
 }
 .cultural_content{
     font-size: 25px;
-    margin: 0px 7%;
+    margin: 0px 7.5%;
     line-height: 1.5;
 }
 .gallery{
@@ -14,4 +14,5 @@
 .img{
     width: 30%;
     height: 267.5px;
+    margin: 4px;
 }
